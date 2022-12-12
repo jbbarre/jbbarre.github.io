@@ -2,14 +2,14 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of cool projects I've worked on.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Data Viz, Tech , Science]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/projects.md -->  
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
