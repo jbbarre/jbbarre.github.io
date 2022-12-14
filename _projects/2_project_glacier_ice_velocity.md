@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ice Velocity of Glaciers
-description: <strong>Data Visualization</strong> | 3d maps of scientific data
+description: <strong>Data Visualization</strong> | 3d Viz of scientific data
 img: assets/img/portfolio_glacier.png
 importance: 1
 category: Data Viz
