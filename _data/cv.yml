@@ -1,97 +1,120 @@
-- title: General Information
-  type: map
+- title: Experience
+  type: time_table
   contents:
-    - name: Full Name
-      value: Jean Baptiste Barré
-    - name: Date of Birth
-      value: 31 july 1977
-    - name: Languages
-      value: French, English 
+    - title: Research engineer
+      institution: Institute of Environmental Geosciences, CNRS, Grenoble, France
+      year: 2020 - now
+      description:
+        - title: Data Visualisation
+          contents:
+            - Development of the IGE visualisation website and web applications for the visualisation of scientific data.
+        - title: Scientific visualization 
+          contents:
+            - exploration of data from oceanographic simulation models models (NEMO) with PARAVIEW.
+            - 3D modelling in Blender from geodata.
+        - title: Spatial Data Science
+          contents:
+            - Spatial and temporal remote sensing of Antarctic iceberg.
+        - title: Data Management
+          contents:
+            - European H2020 PROTECT project - Deployment of an online data management solution (CKAN). Administration of the dedicated server (Debian).
+            - Development of a compliance checker for ISMIP6 (python).
+
+
+    - title: Postdoctoral Researcher
+      institution: INRAE, Grenoble, France
+      year: 2017-2020
+      description:
+        - title: Scientific activities
+          contents: 
+          - Development of classification models (Machine Learning) of forest species from Lidar and from Lidar and hyperspectral data.
+          - Development of prediction models in the context of natural hazards (block falls).
+        - Follow-up and technical management of the European projects (<a href="https://www.alpine-space.eu/project/greenrisk4alps/"> GreenRisk4alps </a> and <a href="https://alpinesoils.eu/")>Links4soils </a>).
+        
+        - title: PhD Co-supervision 
+          contents: 
+          - Tusa E. (2017-2020) - INRAE / Gipsa-Lab - Signal processing - <a href="https://www.theses.fr/2020GRALT072"> Fusion of 3D point clouds and hyperspectral data for the extraction of geometric and radiometric features of trees</a>.
+          - Cros V. (2018-2022) - INRAE - Biomechanics - <a href="https://www.theses.fr/s212788"> Mechanical diagnostic with vibration analysis on standing tree of the efficiency and durability of forests' protection function.</a>
+
+    - title: PhD 
+      institution: INRAE, Grenoble, France
+      year: 2013-2016
+      description:
+        - <a href="https://www.theses.fr/2017GREAS005"> Characterization of the consequences of the fungal activity on the mechanical properties of a woody stem in structures of ecological engineering of protection against the natural hazard</a>.
+
+
+    - title: Engineer
+      institution: INRAE, Grenoble, France
+      year: 2010-2012
+      description:
+        - Design/implementation of thematic databases with postgreSQL.
+        - Management of multidisciplinary databases.
+        - Design/implementation of mechanical tests in the laboratory.
+
+    - title: Application engineer
+      institution: Autodesk, Montbonnot, France
+      year: 2006-2009
+      description:
+        - Training, technical support in structural engineering with Robot Structural Analysis.
+        - Technical specifications for timber structures.
+
+    - title: Wood structural engineer
+      institution: Bourgeois - Vinci Construction, Lyon
+      year: 2005
+      description:
+        - Design of wooden structures of historical monuments (castles, churches)
+
+    - title: Engineer - corporate financing
+      institution: bpifrance, Dijon, France
+      year: 2002-2004
+      description:
+        - Financing of business development, transfer and buy-out projects.
+        
+
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: Grenoble Alpes University, France
-      year: 1905
+      institution: Université Grenoble Alpes, France
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - PhD thesis in Instrumentation, Signal and Imaging for the Environment
+        - 
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Master Business management
+      institution: Université Paris-Est Créteil, France
+      year: 2002
       description:
-        - Description 1.
-        - Description 2.
-
-- title: Experience
+        - Master
+    - title: Wood structural engineer
+      institution: École Nationale Supérieure des Technologies et Industries du Bois, Université de Lorraine, Epinal
+      year: 2001
+      description:
+        - Master
+        
+- title: Computer skills
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.  
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Languages
+      description: Python, R
+    - title: Database
+      description: PostgreSQL
+    - title: GeoSpatial coding
+      description: Mapbox, Rasterio, Xarray, GDAL/OGR
+    - title: Remote sensing/GIS
+      description: Google Earth Engine (JS and Python APIs), QGIS
+    - title: Data Visualisation
+      description: Paraview, D3.js, Plotly, Blender, Sketchup
+    - title: Web development
+      description:  JavaScript, HTML, CSS
+    - title: Numerical Simulation 
+      description: Robot Structural Analysis - Autodesk
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Climbing, Tinkering, Gardening, etc.
