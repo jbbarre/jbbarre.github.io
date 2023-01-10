@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Ice Velocity of Glaciers
-description: <strong>Data Visualization</strong> | 3d Viz of scientific data
+description: <strong>Data Visualization</strong> <br> 3d Viz of scientific data.
 img: assets/img/portfolio_glacier.png
 importance: 1
-category: Data Viz
+category: Data Viz - Cartography
 ---
 
 Romain Millan, Jérémie Mouginot, Antoine Rabatel and Mathieu Morlighem worked together to produce this impressive dataset published in [Nature Geoscience](https://www.nature.com/articles/s41561-021-00885-z) on the thickness and velocity of world's glaciers. I used Mapbox and its 3d feature to map the data and making it more accessible.

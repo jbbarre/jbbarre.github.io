@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Antarctica in 3D
-description: <strong>Data Visualization</strong> | 3d map of Antarctica
+description: <strong>Data Visualization</strong> <br> 3d map of Antarctica.
 img: assets/img/portfolio_3d_antarctica.png
-importance: 1
-category: Data Viz
+importance: 3
+category: Data Viz - Cartography
 ---
 
 Antarctica is the fifth largest continent and probably the last to be recognised when properly mapped. The earth is indeed difficult to map on a flast surface as a screen or a book. The most commonly used maps of the Earth are focused on a 'not so bad' representation of the inhabited land areas. This leads to a compromise with a terrible consequence for Antarctica, whose shape is totally unrecognisable.

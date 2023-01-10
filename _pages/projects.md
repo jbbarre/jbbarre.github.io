@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /projects/
-description: A growing collection of cool projects I've worked on.
+description: A growing collection of projects I've worked on.
 nav: true
 nav_order: 2
-display_categories: [Data Viz, Tech , Science]
+display_categories: [Data Viz - Cartography, Science , Tech]
 horizontal: false
 ---
 
