@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Geography of the High Mountains of Asia
-description: <strong>Remote Sensing</strong> <br> Tree species mapping.
+title: Individual Tree Crown Segmentation
+description: <strong>Remote Sensing</strong> <br> Forestry - Tree species mapping.
 img: assets/img/3dSegmentation.PNG
 importance: 1
 category: Remote Sensing
