@@ -12,4 +12,3 @@ Visualize the flow of ice Shelves with time series of satellite images. The prod
 <div class="row">
            {% include figure.html path="assets/img/petermann_2014_2021.gif" title="" class="img-fluid rounded z-depth-1" %}
 </div>
-

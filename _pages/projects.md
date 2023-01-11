@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of projects I've worked on.
 nav: true
 nav_order: 2
-display_categories: [Data Viz - Cartography, Science , Tech]
+display_categories: [Data Viz - Cartography, Remote Sensing , Tech]
 horizontal: false
 ---
 
