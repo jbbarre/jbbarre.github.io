@@ -16,4 +16,6 @@ social: true  # includes social icons at the bottom of the page
 ---
 Bio
 
-I'm working on it. Until it is ready, I invite you to check out my [Linkedin](https://www.linkedin.com/in/jb-barr%C3%A9/) page or my CV.
+I'm working on it. 
+
+Until it is ready, I invite you to check out my [Linkedin](https://www.linkedin.com/in/jb-barr%C3%A9/) page or my resume.
