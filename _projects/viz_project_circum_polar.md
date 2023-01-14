@@ -2,16 +2,16 @@
 layout: page
 title: Circum polar
 description: <strong>Scientific Visualization</strong> <br> Ocean surface current speed.
-img: assets/img/circum_polar.png
+img: assets/img/circum polar.png
 importance: 6
 category: Data Viz - Cartography
 ---
 
 
-Collaborator Pierre Mathiot
+<span>Collaborator</span> [Pierre Mathiot](https://www.researchgate.net/profile/Pierre-Mathiot)
 
-Tools Python, CDO, Paraview
-Completed May 2022
+<span>Tools</span> Python, CDO, Paraview
+<span>Completed</span> May 2022
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
