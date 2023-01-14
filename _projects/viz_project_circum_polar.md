@@ -14,7 +14,7 @@ category: Data Viz - Cartography
 <span>Completed</span> May 2022
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0 text-center">
         {% include figure.html path="assets/img/eORCA0251999.gif" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
