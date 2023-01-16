@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshop "Degré de confiance"
-description: Collaboration with graphic design students 
+description: Collaboration with Ecole Supérieure d’Art et de Design of Grenoble-Valence
 img: assets/img/esad2.jpg
 importance: 1
 category: Not so science related
