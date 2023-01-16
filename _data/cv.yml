@@ -55,7 +55,7 @@
       institution: Autodesk, Montbonnot, France
       year: 2006-2009
       description:
-        - Training, technical support in structural engineering with [Robot Structural Analysis](https://www.autodesk.com/products/robot-structural-analysis/overview?term=1-YEAR&tab=subscription#robot-structural-analysis-intro).
+        - Training, technical support in structural engineering with <a href="https://www.autodesk.com/products/robot-structural-analysis/overview?term=1-YEAR&tab=subscription#robot-structural-analysis-intro")> Robot Structural Analysis</a>
         - Technical specifications for timber structures.
 
     - title: Wood structural engineer
@@ -65,7 +65,7 @@
         - Design of wooden structures of historical monuments (castles, churches)
 
     - title: Engineer - corporate financing
-      institution: [bpifrance](https://www.bpifrance.fr/), Dijon, France
+      institution: <a href="https://www.bpifrance.fr/"> bpifrance</a>), Dijon, France
       year: 2002-2004
       description:
         - Financing of business development, transfer and buy-out projects.
