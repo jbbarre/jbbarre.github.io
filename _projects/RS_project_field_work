@@ -7,14 +7,17 @@ importance: 3
 category: Remote Sensing
 ---
 
-Data acquisition is large part of the remote sensing work for the environmental applications. Not only the images or the point clouds but also hte ground truth.
+Data acquisition is large part of the remote sensing work for the environmental applications. Not only the images or the point clouds but also the ground truth.
 
-Here is an example of Field work to measure as much as we can of a trees plot in an alpine forest near Grenoble.
+Here are some examples of fieldwork I have been involved in.
 
 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
-           {% include figure.html path="assets/img/RS_field_work.png" title="" class="img-fluid rounded z-depth-1" %}
+           {% include figure.html path="assets/img/RS_field_work1.png" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+        <div class="col-sm mt-3 mt-md-0 text-center">
+           {% include figure.html path="assets/img/RS_field_work2.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
