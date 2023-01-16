@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Lidar and aerial Hyperspectral acquisitions 
-description: <strong>Remote Sensing</strong> <br> Forestry.
-img: assets/img/RS_field_work.png
+title: Field Work 
+description: <strong>Remote Sensing</strong> <br> Forestry - cryosphere.
+img: assets/img/RS_field_work1.png
 importance: 3
 category: Remote Sensing
 ---
@@ -10,7 +10,6 @@ category: Remote Sensing
 Data acquisition is large part of the remote sensing work for the environmental applications. Not only the images or the point clouds but also the ground truth.
 
 Here are some examples of fieldwork I have been involved in.
-
 
 
 <div class="row">
