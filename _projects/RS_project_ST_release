@@ -1,0 +1,18 @@
+---
+layout: page
+title: Velocity Fields of Glaciers
+description: <strong>Remote Sensing</strong> <br> Cryosphere.
+img: assets/img/patagonia_image.png
+importance: 2
+category: Remote Sensing
+---
+
+Collaboration with Romain Millan based on a processing chain initiated by Romain and Jérémie MOUGINOT et al.
+
+I am working with Romain to technically update the processing chain and update the time series.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+           {% include figure.html path="assets/img/patagonia_image.png" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
