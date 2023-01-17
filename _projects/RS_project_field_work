@@ -7,16 +7,22 @@ importance: 3
 category: Remote Sensing
 ---
 
-Data acquisition is large part of the remote sensing work for the environmental applications. Not only the images or the point clouds but also the ground truth.
+Field data acquisition is an important part of the scientific process in in environmental science. Accurate measurements may be a real challenge to obtain depending on the conditions.
+
 
 Here are some examples of fieldwork I have been involved in.
-
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
            {% include figure.html path="assets/img/RS_field_work1.png" title="" class="img-fluid rounded z-depth-1" %}
     </div>
-        <div class="col-sm mt-3 mt-md-0 text-center">
-           {% include figure.html path="assets/img/RS_field_work2.png" title="" class="img-fluid rounded z-depth-1" %}
+    <div class="caption">
+    Measure of trees size and height in an alpine forest near Grenoble, France May 2018.
+    </div>
+    <div class="col-sm mt-3 mt-md-0 text-center">
+           {% include figure.html path="assets/img/RS_field_work2.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="caption">
+    Optic fiber installation in the Argentière Glacier, France. December 2021.
     </div>
 </div>
