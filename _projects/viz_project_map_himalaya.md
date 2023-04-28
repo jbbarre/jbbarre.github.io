@@ -7,7 +7,7 @@ importance: 4
 category: Data Viz - Cartography
 ---
 
-I've Worked with Martin MENEGOZ, Fanny BRUN and Patrick Wagnon to create maps for their article [Glaciers in Asia's high mountains face climate change](https://www.encyclopedie-environnement.org/climat/glaciers-hautes-montagnes-asie-face-au-changement-climatique/) in [encyclopedie-environnement.org/](https://www.encyclopedie-environnement.org/).
+I've Worked with Martin MENEGOZ, Fanny BRUN and Patrick Wagnon to create maps for the article [Glaciers in Asia's high mountains face climate change](https://www.encyclopedie-environnement.org/climat/glaciers-hautes-montagnes-asie-face-au-changement-climatique/) in [encyclopedie-environnement.org/](https://www.encyclopedie-environnement.org/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
