@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Velocity Fields of Glaciers
-description: <strong>Remote Sensing</strong> <br>
+description: <strong>Remote Sensing</strong> 
+img: assets/img/patagonia_image.png
 importance: 2
 category: Geospatial Data Science
 ---
