@@ -4,7 +4,7 @@ title: Individual Tree Crown Segmentation
 description: <strong>Remote Sensing</strong> <br> Forestry - Tree species mapping.
 img: assets/img/3dSegmentation.PNG
 importance: 1
-category: Remote Sensing
+category: Geospatial Data Science
 ---
 
 Collaboration with Eduardo Tusa Jumbo and its PhD supervision team including Jocelyn CHANUSSOT, Jean-Matthieu MONNET, Mauro DALLA MURA and myself.

@@ -4,13 +4,12 @@ title: Velocity Fields of Glaciers
 description: <strong>Remote Sensing</strong> <br> Cryosphere.
 img: assets/img/patagonia_image.png
 importance: 2
-category: Remote Sensing
+category: Geospatial Data Science
 ---
 
-Collaboration with Romain Millan based on a processing chain initiated by Romain and Jérémie MOUGINOT et al.
+Collaboration with Romain Millan based on the processing chain initiated by Romain and Jérémie MOUGINOT. This chain utilizes optical satellite images to compute the velocities of glaciers, enabling the analysis of data for almost 200,000 glaciers worldwide.
 
-
-I am working with Romain to technically update the processing chain and update the time series.
+I collaborate with Romain to maintain the processing chain up-to-date.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">

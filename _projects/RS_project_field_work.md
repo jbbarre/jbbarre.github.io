@@ -4,7 +4,7 @@ title: Field Work
 description: <strong>Data acquisition</strong> <br> Forestry - Cryosphere.
 img: assets/img/RS_field_work1.png
 importance: 3
-category: Remote Sensing
+category: Science related
 ---
 
 Field data acquisition is an important part of the scientific process in in environmental science. Accurate measurements may be a real challenge to obtain depending on the conditions.
