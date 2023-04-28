@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Individual Tree Crown Segmentation
+title: Tree Crown Segmentation
 description: <strong>Remote Sensing</strong> <br> Forestry - Tree species mapping.
 img: assets/img/3dSegmentation.PNG
 importance: 2
