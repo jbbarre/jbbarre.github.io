@@ -1,0 +1,16 @@
+---
+layout: page
+title: Ice Shelves Calving Flux
+description: <strong> Geospatial analysis</strong> <br> Cryosphere.
+img: assets/img/portfolio_antarctica_calving_flux.png
+importance: 1
+category: Geospatial Data Science
+---
+
+Geospatial data analysis to produce calving flux along the front lines of Antarctica ice shelves. Contribution to Horizon Europe Project [OCEAN:ICE](https://ocean-ice.eu/).
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+           {% include figure.html path="assets/img/portfolio_antarctica_calving_flux.png" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

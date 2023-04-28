@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ice shelves flow
-description: <strong>Data Visualization </strong> <br> Explore with satellite images.
+description: <strong>Data Visualization </strong> <br> Exploration with satellite images.
 img: assets/img/gif_peterman.png
 importance: 5
 category: Data Viz - Cartography

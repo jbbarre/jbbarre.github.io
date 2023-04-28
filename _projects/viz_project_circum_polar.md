@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Circum polar
+title: Antarctic Circumpolar Current
 description: <strong>Scientific Visualization</strong> <br> Ocean surface current speed.
 img: assets/img/circum polar.png
 importance: 6
