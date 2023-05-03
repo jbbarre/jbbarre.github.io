@@ -14,8 +14,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Geospatial Data
 
-I'm an engineer with a PhD in instrumentation, signal, and imaging for environmental applications with over 12 years of experience in research. The past years, I have specialized in the development of geospatial data analysis and visualization applications. I also collaborate on the development of machine learning based solutions for Earth science applications.
+I am an engineer who holds a PhD in instrumentation, signal processing, and imaging for environmental applications. With over 12 years of research experience, I have developed expertise in geospatial data processing, analysis and visualization applications. Additionally, I am involved in collaborating on the development of machine learning-based solutions for Earth science applications.
 
-Personally, I am a curious problem-solver who loves exploring different areas to provide innovative solutions that make a difference. I appreciate working in an open-minded environment, as it fosters collaboration and encourages creativity.
+As an individual, I am a curious problem-solver who enjoys exploring diverse areas to create innovative solutions that have an impact. I value working in an open-minded environment that promotes collaboration and inspires creativity.
