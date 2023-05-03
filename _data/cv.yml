@@ -12,9 +12,6 @@
           contents:
             - exploration of data from oceanographic simulation models models (NEMO) with PARAVIEW.
             - 3D modelling in Blender from geodata.
-        - title: Spatial Data Science
-          contents:
-            - Spatial and temporal remote sensing of Antarctic iceberg.
         - title: Data Management
           contents:
             - European H2020 PROTECT project - Deployment of an online data management solution (CKAN). Administration of the dedicated server (Debian).
