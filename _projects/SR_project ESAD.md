@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Workshop "Degré de confiance"
-description:  <strong> Scientific communication </strong> <br>Collaboration with Ecole Supérieure d’Art et de Design of Grenoble-Valence
+description:  <strong> Scientific communication </strong> <br>ESAD Grenoble•Valence
 img: assets/img/esad2.jpg
 importance: 1
 category: Science related
 ---
 
-January 2023 - With the [PROTECT office team](https://protect-slr.eu/objectives/the-consortium/), we had a week long workshop with students from the Ecole Supérieure d'Art et de Design of Grenoble-Valence ([ESAD GV](http://www.esad-gv.fr/fr/))and [Alizée De Pin](https://a-l-p-i-n.com/). We help students to acquire some scientific knowledge about seal level rise and the cryosphere in the context of climate change. 
+January 2023 - With the [PROTECT office team](https://protect-slr.eu/objectives/the-consortium/), we had a week long workshop with students from the Ecole Supérieure d'Art et de Design of Grenoble•Valence ([ESAD GV](http://www.esad-gv.fr/fr/))and [Alizée De Pin](https://a-l-p-i-n.com/). We help students to acquire some scientific knowledge about seal level rise and the cryosphere in the context of climate change. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

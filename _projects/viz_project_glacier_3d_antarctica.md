@@ -7,14 +7,20 @@ importance: 3
 category: Data Viz - Cartography
 ---
 
-Antarctica is the fifth largest continent and probably the last to be recognised when properly mapped. The earth is indeed difficult to map on a flast surface as a screen or a book. The most commonly used maps of the Earth are focused on a 'not so bad' representation of the inhabited land areas. This leads to a compromise with a terrible consequence for Antarctica, whose shape is totally unrecognisable.
+Antarctica is the fifth largest continent and likely the last to be accurately mapped. The challenge in mapping the Earth on a flat surface, such as a screen or a book, is well known. The most commonly used maps of the Earth prioritize accurately representing the inhabited land areas, resulting in a compromised depiction of Antarctica. As a consequence, the shape of the continent is unrecognizable. This realization prompted the creation of an accurate 3D map of Antarctica. I utilized [Blender](https://jbbarre.github.io/projects/viz_project_blender/), a 3D computer graphics software, to create a numerical model of the continent that can be visualized in a web application. You can view the 3D model by accessing  <a href="https://ige-vis.univ-grenoble-alpes.fr/antarcticaStory/index3d.html"> here.</a>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0 text-center">
-           {% include figure.html path="assets/img/world_map.jpg" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0 text-center">
-           {% include figure.html path="assets/img/portfolio_3d_antarctica.png" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
+       <div class="col-sm mt-3 mt-md-0 text-center">
+              {% include figure.html path="assets/img/antarctica_Projection_3857.png" title="" class="img-fluid rounded z-depth-1" %}
+              <div class="caption">
+                     Unreal representation of Antarctica using the Mercator projection (EPSG 3857).
+              </div>
+       </div>
+       <div class="col-sm mt-3 mt-md-0 text-center">
+              {% include figure.html path="assets/img/portfolio_3d_antarctica.png" title="" class="img-fluid rounded z-depth-1" %}
+              <div class="caption">
+                     Realistic 3D representation of Antarctica using the  Antarctic Polar Stereographic projection (EPSG 3031).
+              </div>
+       </div>
+
 </div>
-<a href="https://ige-vis.univ-grenoble-alpes.fr/antarcticaStory/index3d.html"> Go to the app.</a>
