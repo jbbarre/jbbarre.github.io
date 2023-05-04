@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Geography of the High Mountains of Asia
+title: High Mountains of Asia
 description: <strong>Cartography</strong> <br> Explain with maps.
 img: assets/img/himalaya.png
 importance: 4

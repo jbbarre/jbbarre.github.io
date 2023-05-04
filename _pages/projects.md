@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of projects I've worked on.
+description: A growing collection of projects I've worked on, often in collaboration with great people, sometimes alone.
 nav: true
 nav_order: 2
 display_categories: [Geospatial Data Science , Data Viz - Cartography,  Science related]

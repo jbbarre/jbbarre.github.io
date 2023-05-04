@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tree Crown Segmentation
-description: <strong>Remote Sensing</strong> <br> Forestry - Tree species mapping.
+description: <strong>Remote Sensing</strong>
 img: assets/img/3dSegmentation.PNG
 importance: 2
 category: Geospatial Data Science
