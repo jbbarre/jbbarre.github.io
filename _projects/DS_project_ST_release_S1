@@ -17,6 +17,6 @@ The chain represents over a decade of effort to develop a large-scale processing
 <div class="row">
     <div class="col-sm mt-3 mt-md-0 text-center">
            {% include figure.html path="assets/img/interfero.png" title="" class="img-fluid rounded z-depth-1" %}
-   <a href="https://www.science.org/doi/10.1126/science.276.5314.934">(Rignot et al.,1997)</a>
+   
     </div>
 </div>
