@@ -2,14 +2,15 @@
   type: time_table
   contents:
 
-    - title: Geospatial engineer
+    - title: Geospatial Data Engineer
       institution: University of California Irvine, IRVINE, USA
       year: 2023 - now
       description:
-        - title: Specialist
+        - title: Scientific Programming
           contents: 
-          - Ice motion data production using Sentinel-1 processing chain.
-          - Maintenance, updating and documentation of the processing chain. 
+          - Maintenance, updating and documentation of the Sentinel-1 Radar processing chain.
+        - title:  Data Production
+          - Ice motion data production using Sentinel-1 processing chain on servers grap and HPC.
           
     - title: Research engineer
       institution: Institute of Environmental Geosciences, CNRS, Grenoble, France
