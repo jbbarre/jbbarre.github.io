@@ -2,8 +2,8 @@
   type: time_table
   contents:
 
-  - title: Geospatial engineer
-      institution: Institute of Environmental Geosciences, CNRS, Grenoble, France
+    - title: Geospatial engineer
+      institution: University of California Irvine, IRVINE, USA
       year: 2023 - now
       description:
         - title: Specialist
