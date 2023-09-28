@@ -10,7 +10,8 @@
           contents: 
           - Maintenance, updating and documentation of the Sentinel-1 Radar processing chain.
         - title:  Data Production
-          - Ice motion data production using Sentinel-1 processing chain on servers grap and HPC.
+          contents:
+          - Ice motion data production using Sentinel-1 processing chain on servers cluster and HPC. 
           
     - title: Research engineer
       institution: Institute of Environmental Geosciences, CNRS, Grenoble, France
@@ -21,7 +22,6 @@
           - Development of workflows for geospatial analysis using python and databases (PostgreSQL,PostGIS).
           - Management of the local IT infrastructure to process the calculations.
           - Development of test cases to test up-to-date computation methods (Dask) and data access (STAC format). 
-
         - title: Data Visualisation
           contents:
             - Development of the IGE visualisation website and web applications for the visualisation of scientific data.
@@ -113,14 +113,16 @@
 - title: Computer skills
   type: time_table
   contents:
+    - title: Environnement 
+      description: Local to remote servers, HPC
     - title: Languages
-      description: Python, SQL, R
+      description: Python, SQL, IDL, R
     - title: Database
       description: PostgreSQL, PostGIS
     - title: Coding
       description: 
-       - Geospatial Python Stack : Shapely, Pyproj, Fiona, Rasterio, GeoPandas, Xarray, Cython, GDAL/OGR
-       - Version Control: gitHub GitLab
+       - Geospatial Python Stack : Shapely, Pyproj, Fiona, Rasterio, GeoPandas, Xarray, Dask,Cython, GDAL/OGR
+       - Version Control: gitHub, GitLab
     - title: Remote sensing/GIS
       description: Google Earth Engine (JS and Python APIs), QGIS
     - title: Data Visualisation
