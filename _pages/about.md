@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: Geospatial Data Engineer · PhD
 
 profile:
   align: right
