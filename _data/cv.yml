@@ -2,16 +2,62 @@
   type: time_table
   contents:
   
+    - title: Experience
+  type: time_table
+  contents:
+
     - title: Geospatial Data Engineer
       institution: Earth Geo Analytics, Isère, France
-      year: 2023 - Today
+      year: 2023 – Present
       description:
-        - title: Scientific Programming
+        - Independent geospatial software engineer providing scientific computing and Earth observation expertise to international research institutions.
+
+        - title: Scientific Software Engineering
           contents:
-          - Maintenance, updating and documentation of the Sentinel-1 Radar processing chain.
-        - title:  Data Production
+            - Develop, maintain, and optimize large-scale Sentinel-1 SAR processing pipelines for cryosphere monitoring.
+            - Modernize legacy scientific software (IDL, GAMMA) by designing robust, modular Python workflows.
+            - Design automated and reproducible processing pipelines for Linux and HPC environments.
+            - Improve software quality through modular architecture, testing, and workflow automation.
+
+        - title: Geospatial Data Production
           contents:
-          - Ice motion data production using Sentinel-1 processing chain on servers cluster and HPC.
+            - Produce large-scale geospatial products from Sentinel-1 SAR imagery, including velocity maps and interferometric datasets.
+            - Process multi-terabyte Earth observation datasets over Antarctica and Greenland.
+            - Integrate heterogeneous geospatial and remote sensing datasets into scientific processing workflows.
+
+        - title: High-Performance Scientific Computing
+          contents:
+            - Develop scalable processing solutions for HPC clusters.
+            - Optimize computational performance through parallel processing and efficient I/O strategies.
+            - Build robust geospatial data pipelines for large-scale scientific analyses.
+
+        - title: Technologies
+          contents:
+
+            - title: Programming Languages
+              contents:
+                - Python, SQL, Bash, IDL
+
+            - title: GIS & Geospatial
+              contents:
+                - QGIS, GDAL, Rasterio, GeoPandas, PostGIS, PDAL, Shapely
+
+            - title: Scientific Computing
+              contents:
+                - NumPy, Pandas, Xarray, Dask, Joblib
+
+            - title: Earth Observation & Remote Sensing
+              contents:
+                - SAR processing: GAMMA software
+                - Stereogrammetry: [ASP ](https://github.com/NeoGeographyToolkit/StereoPipeline)
+
+            - title: Data Engineering
+              contents:
+                - NetCDF, Zarr, GeoTIFF, Cloud Optimized GeoTIFF (COG), GeoPackage, Parquet
+
+            - title: Software Engineering & Infrastructure
+              contents:
+                - Linux, Git, Docker, Conda/Mamba, HPC (Slurm/OAR),CI/CD, Testing
 
     - title: Geospatial Data Engineer
       institution: University of California Irvine, IRVINE, USA
