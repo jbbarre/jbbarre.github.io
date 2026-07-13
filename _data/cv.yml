@@ -1,10 +1,6 @@
 - title: Experience
   type: time_table
   contents:
-  
-    - title: Experience
-  type: time_table
-  contents:
 
     - title: Geospatial Data Engineer
       institution: Earth Geo Analytics, Isère, France
@@ -33,31 +29,12 @@
 
         - title: Technologies
           contents:
-
-            - title: Programming Languages
-              contents:
-                - Python, SQL, Bash, IDL
-
-            - title: GIS & Geospatial
-              contents:
-                - QGIS, GDAL, Rasterio, GeoPandas, PostGIS, PDAL, Shapely
-
-            - title: Scientific Computing
-              contents:
-                - NumPy, Pandas, Xarray, Dask, Joblib
-
-            - title: Earth Observation & Remote Sensing
-              contents:
-                - SAR processing: GAMMA software
-                - "Stereogrammetry: [ASP ](https://github.com/NeoGeographyToolkit/StereoPipeline)"
-
-            - title: Data Engineering
-              contents:
-                - NetCDF, Zarr, GeoTIFF, Cloud Optimized GeoTIFF (COG), GeoPackage, Parquet
-
-            - title: Software Engineering & Infrastructure
-              contents:
-                - Linux, Git, Docker, Conda/Mamba, HPC (Slurm/OAR),CI/CD, Testing
+            - "Programming Languages: Python, SQL, Bash, IDL"
+            - "GIS & Geospatial: QGIS, GDAL, Rasterio, GeoPandas, PostGIS, PDAL, Shapely"
+            - "Scientific Computing: NumPy, Pandas, Xarray, Dask, Joblib"
+            - 'Earth Observation & Remote Sensing: SAR processing (GAMMA software), Stereogrammetry (<a href="https://github.com/NeoGeographyToolkit/StereoPipeline" target="_blank" rel="noopener noreferrer">ASP</a>)'
+            - "Data Engineering: NetCDF, Zarr, GeoTIFF, Cloud Optimized GeoTIFF (COG), GeoPackage, Parquet"
+            - "Software Engineering & Infrastructure: Linux, Git, Docker, Conda/Mamba, HPC (Slurm/OAR), CI/CD, Testing"
 
     - title: Geospatial Data Engineer
       institution: University of California Irvine, IRVINE, USA
