@@ -1,10 +1,21 @@
 - title: Experience
   type: time_table
   contents:
+  
+    - title: Geospatial Data Engineer
+      institution: Earth Geo Analytics, Isère, France
+      year: 2023 - Today
+      description:
+        - title: Scientific Programming
+          contents:
+          - Maintenance, updating and documentation of the Sentinel-1 Radar processing chain.
+        - title:  Data Production
+          contents:
+          - Ice motion data production using Sentinel-1 processing chain on servers cluster and HPC.
 
     - title: Geospatial Data Engineer
       institution: University of California Irvine, IRVINE, USA
-      year: 2023 - now
+      year: 2023 
       description:
         - title: Scientific Programming
           contents: 
@@ -50,7 +61,7 @@
           - Tusa E. (2017-2020) - INRAE / Gipsa-Lab - Signal processing - <a href="https://www.theses.fr/2020GRALT072"> Fusion of 3D point clouds and hyperspectral data for the extraction of geometric and radiometric features of trees</a>.
           - Cros V. (2018-2022) - INRAE - Biomechanics - <a href="https://www.theses.fr/s212788"> Mechanical diagnostic with vibration analysis on standing tree of the efficiency and durability of forests' protection function.</a>
 
-    - title: PhD 
+    - title: PhD in instrumentation, signal processing, and imaging
       institution: INRAE, Grenoble, France
       year: 2013-2016
       description:
