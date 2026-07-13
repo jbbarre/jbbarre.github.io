@@ -277,6 +277,44 @@ blockquote {
 }
 
 
+// Customers (bottom)
+
+.customers {
+  text-align: center;
+  margin-top: 2rem;
+
+  .customers-title {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--global-text-color-light);
+    margin-bottom: 1rem;
+  }
+
+  .customers-logos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  .customer-logo {
+    max-height: 50px;
+    max-width: 140px;
+    width: auto;
+    filter: grayscale(100%);
+    opacity: 0.6;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+      filter: grayscale(0%);
+      opacity: 1;
+    }
+  }
+}
+
+
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);

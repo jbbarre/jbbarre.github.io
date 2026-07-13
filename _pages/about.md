@@ -13,6 +13,7 @@ profile:
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+customers: true  # includes "Trusted by" customer logos at the bottom of the page
 ---
 
 I am an engineer who holds a PhD in instrumentation, signal processing, and imaging for environmental applications. With over 12 years of research experience, I have developed expertise in geospatial data processing, analysis and visualization. Additionally, I am involved in collaborating on the development of machine learning-based solutions for Earth science applications.
