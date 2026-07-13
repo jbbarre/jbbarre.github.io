@@ -49,7 +49,7 @@
             - title: Earth Observation & Remote Sensing
               contents:
                 - SAR processing: GAMMA software
-                - Stereogrammetry: [ASP ](https://github.com/NeoGeographyToolkit/StereoPipeline)
+                - "Stereogrammetry: [ASP ](https://github.com/NeoGeographyToolkit/StereoPipeline)"
 
             - title: Data Engineering
               contents:
